@@ -1,0 +1,15 @@
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\GreenScoreChecker.exe.config
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\GreenScoreChecker.exe
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\GreenScoreChecker.pdb
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\WebDriver.dll
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\WebDriver.Support.dll
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\WebDriver.xml
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\bin\Debug\WebDriver.Support.xml
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\obj\Debug\GreenScoreChecker.csprojAssemblyReference.cache
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\obj\Debug\GreenScoreChecker.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\obj\Debug\GreenScoreChecker.csproj.CopyComplete
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\obj\Debug\GreenScoreChecker.exe
+C:\Users\Predator\source\repos\GreenScoreChecker\GreenScoreChecker\obj\Debug\GreenScoreChecker.pdb
