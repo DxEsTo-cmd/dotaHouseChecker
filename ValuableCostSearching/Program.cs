@@ -26,7 +26,7 @@ namespace GreenScoreChecker
             //Thread.Sleep(5000);
             Browser.FindElement(By.XPath("/html/body/div/div/a[1]/span")).Click();
             //Thread.Sleep(5000);
-            Browser.FindElement(By.XPath("//*[@id=\"steamAccountName\"]")).SendKeys("nekto234");
+            Browser.FindElement(By.XPath("//*[@id=\"steamAccountName\"]")).SendKeys("kartonowy3");
             Browser.FindElement(By.XPath("//*[@id=\"steamPassword\"]")).SendKeys("Huskar28");
             Browser.FindElement(By.XPath("//*[@id=\"imageLogin\"]")).Click();
             //Thread.Sleep(15000);
@@ -50,8 +50,9 @@ namespace GreenScoreChecker
                         doc.LoadHtml(Browser.PageSource);
                         nodes = doc.DocumentNode.SelectNodes("//*[@id=\"triple_roulette\"]/div/div[4]");
                         HtmlNode timer = doc.DocumentNode.SelectSingleNode("//*[@id='triple_roulette']/div/div[2]/span/span");
-                        if (timer.InnerText.StartsWith("0."))
+                        if (timer.InnerText != null && timer.InnerText != "")
                         {
+                            if (Convert.ToDouble(timer.InnerText) > 0.5 && Convert.ToDouble(timer.InnerText) < 1)
                                 break;
                         }
                     }
@@ -60,9 +61,11 @@ namespace GreenScoreChecker
                     }
                 }
 
+               
+                nodes = doc.DocumentNode.SelectNodes("//*[@id=\"triple_roulette\"]/div/div[4]");
                 foreach (var item in nodes)
                 {
-                    var node = item.ChildNodes[item.ChildNodes.Count - 2];
+                    var node = item.ChildNodes[item.ChildNodes.Count - 1];
                     bool check = false;
                     foreach (var attribute in node.Attributes)
                     {
@@ -75,12 +78,12 @@ namespace GreenScoreChecker
                         HtmlNode betOnRed = doc.DocumentNode.SelectSingleNode("//*[@id='bet_1']/div/table[1]/tbody/tr/td[2]/span");
                         HtmlNode betOnGreen = doc.DocumentNode.SelectSingleNode("//*[@id='bet_2']/div/table[1]/tbody/tr/td[2]/span");
                         HtmlNode betOnBlack = doc.DocumentNode.SelectSingleNode("//*[@id='bet_3']/div/table[1]/tbody/tr/td[2]/span");
-                        Console.WriteLine(str + " Red: " + betOnRed.InnerText + " Green: " + betOnGreen.InnerText + " Black " + betOnBlack.InnerText);
-                        File.AppendAllText("./info.txt", str + " " + betOnRed.InnerText.Replace(" ", "") + " " + betOnGreen.InnerText.Replace(" ", "") + " " + betOnBlack.InnerText.Replace(" ", "") + Environment.NewLine);
+                        Console.WriteLine(str + " Red: " + betOnRed.InnerText + " Green: " + betOnGreen + " Black " + betOnBlack.InnerText);
+                        File.AppendAllText("./info.txt", str + Environment.NewLine);
                         Thread.Sleep(35000);
                     }
                 }
-
+               
 
             }
         }
