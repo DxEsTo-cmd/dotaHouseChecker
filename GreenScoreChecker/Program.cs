@@ -26,7 +26,7 @@ namespace GreenScoreChecker
             //Thread.Sleep(5000);
             Browser.FindElement(By.XPath("/html/body/div/div/a[1]/span")).Click();
             //Thread.Sleep(5000);
-            Browser.FindElement(By.XPath("//*[@id=\"steamAccountName\"]")).SendKeys("nekto234");
+            Browser.FindElement(By.XPath("//*[@id=\"steamAccountName\"]")).SendKeys("kartonowy3");
             Browser.FindElement(By.XPath("//*[@id=\"steamPassword\"]")).SendKeys("Huskar28");
             Browser.FindElement(By.XPath("//*[@id=\"imageLogin\"]")).Click();
             //Thread.Sleep(15000);
@@ -34,7 +34,7 @@ namespace GreenScoreChecker
             var clickableElement = wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@id=\"twofactorcode_entry\"]")));
             Browser.FindElement(By.XPath("//*[@id=\"twofactorcode_entry\"]")).SendKeys(steamGuard);
             Browser.FindElement(By.XPath("//*[@id=\"login_twofactorauth_buttonset_entercode\"]/div[1]")).Click();
-            Thread.Sleep(15000);
+            clickableElement = wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@id=\"promo\"]/div[1]/div[2]/div[2]/a")));
             GoToUrl("https://dotahouse.net/triple");
             //Thread.Sleep(5000);
             while (true)
@@ -48,7 +48,6 @@ namespace GreenScoreChecker
                     try
                     {
                         doc.LoadHtml(Browser.PageSource);
-                        nodes = doc.DocumentNode.SelectNodes("//*[@id=\"triple_roulette\"]/div/div[4]");
                         HtmlNode timer = doc.DocumentNode.SelectSingleNode("//*[@id='triple_roulette']/div/div[2]/span/span");
                         if (timer.InnerText.StartsWith("0."))
                         {
@@ -60,9 +59,18 @@ namespace GreenScoreChecker
                     }
                 }
 
+                string betOnRed = doc.DocumentNode.SelectSingleNode("//*[@id='bet_1']/div/table[1]/tbody/tr/td[2]/span").InnerText;
+                string betOnGreen = doc.DocumentNode.SelectSingleNode("//*[@id='bet_2']/div/table[1]/tbody/tr/td[2]/span").InnerText;
+                string betOnBlack = doc.DocumentNode.SelectSingleNode("//*[@id='bet_3']/div/table[1]/tbody/tr/td[2]/span").InnerText;
+
+                Thread.Sleep(15000);
+
+                string str = null;
+                doc.LoadHtml(Browser.PageSource);
+                nodes = doc.DocumentNode.SelectNodes("//*[@id=\"triple_roulette\"]/div/div[4]");
                 foreach (var item in nodes)
                 {
-                    var node = item.ChildNodes[item.ChildNodes.Count - 2];
+                    var node = item.ChildNodes[item.ChildNodes.Count - 1];
                     bool check = false;
                     foreach (var attribute in node.Attributes)
                     {
@@ -71,17 +79,13 @@ namespace GreenScoreChecker
                     }
                     if (check == true)
                     {
-                        string str = node.InnerText;
-                        HtmlNode betOnRed = doc.DocumentNode.SelectSingleNode("//*[@id='bet_1']/div/table[1]/tbody/tr/td[2]/span");
-                        HtmlNode betOnGreen = doc.DocumentNode.SelectSingleNode("//*[@id='bet_2']/div/table[1]/tbody/tr/td[2]/span");
-                        HtmlNode betOnBlack = doc.DocumentNode.SelectSingleNode("//*[@id='bet_3']/div/table[1]/tbody/tr/td[2]/span");
-                        Console.WriteLine(str + " Red: " + betOnRed.InnerText + " Green: " + betOnGreen.InnerText + " Black " + betOnBlack.InnerText);
-                        File.AppendAllText("./info.txt", str + " " + betOnRed.InnerText.Replace(" ", "") + " " + betOnGreen.InnerText.Replace(" ", "") + " " + betOnBlack.InnerText.Replace(" ", "") + Environment.NewLine);
-                        Thread.Sleep(35000);
+                        str = node.InnerText;
                     }
                 }
 
-
+                Console.WriteLine(str + " Red: " + betOnRed + " Green: " + betOnGreen + " Black " + betOnBlack);
+                File.AppendAllText("./info.txt", str + " " + betOnRed.Replace(" ", "") + " " + betOnGreen.Replace(" ", "") + " " + betOnBlack.Replace(" ", "") + Environment.NewLine);
+                Thread.Sleep(20000);
             }
         }
 

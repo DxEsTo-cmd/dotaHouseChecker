@@ -87,7 +87,6 @@ namespace GreenScoreChecker
 
             }
         }
-
         public static void GoToUrl(string url)
         {
             while (true)
