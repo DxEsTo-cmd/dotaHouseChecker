@@ -53,6 +53,7 @@ namespace GreenScoreChecker
                         {
                                 break;
                         }
+                        Thread.Sleep(500);
                     }
                     catch (Exception)
                     {
@@ -83,9 +84,9 @@ namespace GreenScoreChecker
                     }
                 }
 
-                Console.WriteLine(str + " Red: " + betOnRed + " Green: " + betOnGreen + " Black " + betOnBlack);
-                File.AppendAllText("./info.txt", str + " " + betOnRed.Replace(" ", "") + " " + betOnGreen.Replace(" ", "") + " " + betOnBlack.Replace(" ", "") + Environment.NewLine);
-                Thread.Sleep(20000);
+                Console.WriteLine(str + " Red: " + betOnRed + " Green: " + betOnGreen + " Black " + betOnBlack + " Date-Time:" + DateTime.Now);
+                File.AppendAllText("./info.txt", str + " " + betOnRed.Replace(" ", "") + " " + betOnGreen.Replace(" ", "") + " " + betOnBlack.Replace(" ", "") + " " + DateTime.Now + Environment.NewLine);
+                Thread.Sleep(18000);
             }
         }
 
