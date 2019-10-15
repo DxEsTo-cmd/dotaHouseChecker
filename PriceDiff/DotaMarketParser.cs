@@ -9,6 +9,7 @@ using System.Globalization;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.RegularExpressions;
+using System.IO;
 
 namespace PriceDiff
 {
@@ -60,6 +61,35 @@ namespace PriceDiff
             list.Name = name;
             list.Price = price;
             return list;
+        }
+
+        public List<Diff> GetDiffBetweenHouse(IEnumerable<Item> itemsFromHouse)
+        {
+            try
+            {
+                List<Diff> diffs = new List<Diff>();
+                foreach (var item in itemsFromHouse)
+                {
+                    var marketItem = GetItems(item.Name);
+                    diffs.Add(new Diff { Name = item.Name, HousePrice = item.Price, Percent = marketItem.Price / item.Price });
+                }
+                return diffs;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
+
+        public void WriteInfoInFile(IEnumerable<Diff> itemsFromMarket)
+        {
+            itemsFromMarket = itemsFromMarket.OrderBy(m => m.Percent).ToList();
+            string fileName = DateTime.Now.ToString().Replace(".", "+").Replace(":", "+");
+            foreach (var item in itemsFromMarket)
+            {
+                Console.WriteLine(item.Name + " " + item.Percent);
+                File.AppendAllText($"./DotaMarket+{fileName}.txt", item.Name + " " + item.Percent + " " + item.SteamPrice + " " + item.HousePrice + Environment.NewLine);
+            }
         }
 
         private static void GoToUrl(string url)

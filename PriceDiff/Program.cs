@@ -42,9 +42,9 @@ namespace GreenScoreChecker
             chromeOptions.AddArgument("--profile-directory=Selenium");
             Browser = new ChromeDriver(chromeOptions);
             dotaMarket = new DotaMarketParser(chromeOptions);
-            var itemFromDotaMrket = dotaMarket.GetItems("Battleseeker Helmet");
+           
             Browser = new ChromeDriver(chromeOptions);   
-            List<Item> houseItems = GetHouseItems();
+            List<Item> houseItems = GetCSGOHouseItems();
             List<Diff> difflist = GetSteamItems(houseItems);
             difflist = difflist.OrderBy(m => m.Percent).ToList();
             string fileName = DateTime.Now.ToString().Replace(".", "+").Replace(":", "+");
@@ -53,6 +53,11 @@ namespace GreenScoreChecker
                 Console.WriteLine(item.Name + " " + item.Percent);
                 File.AppendAllText($"./CSGO+{fileName}.txt", item.Name + " " + item.Percent + " " + item.SteamPrice + " " + item.HousePrice + Environment.NewLine);
             }
+
+            ///Different in price between DotaMarket and DotaHouse
+            List<Diff> diffDmAndDh = dotaMarket.GetDiffBetweenHouse(houseItems); // Different in price between DotaMarket and DotaHouse
+            dotaMarket.WriteInfoInFile(diffDmAndDh);
+            ///
 
             houseItems = GetDOTAHouseItems();
             difflist = GetSteamItems(houseItems).OrderBy(m => m.Percent).ToList();
