@@ -2,6 +2,7 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
+using PriceDiff;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -32,12 +33,16 @@ namespace GreenScoreChecker
     class Program
     {
         static ChromeOptions chromeOptions = new ChromeOptions();
+
+        private static DotaMarketParser dotaMarket;
         public static IWebDriver Browser { get; private set; }
         static void Main(string[] args)
         {
             chromeOptions.AddArgument(@"--user-data-dir=C:\User\User Data");
             chromeOptions.AddArgument("--profile-directory=Selenium");
-            Browser = new ChromeDriver(chromeOptions);
+            dotaMarket = new DotaMarketParser(chromeOptions);
+            var itemFromDotaMrket = dotaMarket.GetItems("Battleseeker Helmet");
+            Browser = new ChromeDriver(chromeOptions);   
             List<Item> houseItems = GetHouseItems();
             List<Diff> difflist = GetSteamItems(houseItems);
             difflist = difflist.OrderBy(m => m.Percent).ToList();
