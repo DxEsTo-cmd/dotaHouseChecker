@@ -1,0 +1,593 @@
+﻿Genuine Entropic Axe  0,313320707070707 49,63 158,4
+Расписанная руна (Убийств дальним Shadowraze)  0,317460317460318 8,8 27,72
+Crystal Dryad  0,360576923076923 225 624
+Inscribed Cap of the Fae Forager  0,388310804240008 39,93 102,83
+Cataclysm Edge  0,459009206488382 52,35 114,05
+Расписанная руна (Убийств ближним Shadowraze)  0,462388216728038 8,79 19,01
+Swine Arsenal  0,520064598218655 106,27 204,34
+Radiant Entity  0,54445028932141 10,35 19,01
+Dragonfish Sceptre  0,553707414829659 27,63 49,9
+Club of the Igneous Stone  0,559574468085106 13,15 23,5
+Inscribed Crystal Dryad  0,566182795698925 210,62 372
+Merry Wanderer's Brush  0,578232226187208 42,13 72,86
+Pulsar Remnant  0,582915622389307 307,01 526,68
+Genuine Hood of the Master Thief  0,58465855940131 12,5 21,38
+Reaper's Wreath  0,585342276289764 393,59 672,41
+Reaper's Wreath  0,585342276289764 393,59 672,41
+Inscribed Grasping Bludgeon  0,589862903337825 424,66 719,93
+Arms of Desolation  0,595381550205238 248,03 416,59
+Northern Blight Arms  0,600783630822812 13,8 22,97
+Расписанная руна (Критов Stifling Dagger)  0,60121898127993 13,81 22,97
+Bracers of Aeons  0,605976714100906 234,21 386,5
+Genuine Mask of Quas Precor  0,605996843766439 11,52 19,01
+Eul's Scepter of Divinity  0,609368635437882 14,96 24,55
+Powdersled Rookery Squee  0,60966810966811 16,9 27,72
+Pauldrons of the Warboss  0,615419296663661 13,65 22,18
+Вымпел Virtus.pro  0,615799199260856 39,99 64,94
+Infused Blade of the Fractured Order  0,616493886230728 463,85 752,4
+Inscribed Blades of Voth Domosh  0,617272162759486 1848,94 2995,34
+Exalted Bladeform Legacy  0,622300338799726 1956,17 3143,45
+Apogee of the Guardian Flame  0,624559796146248 436,28 698,54
+Fractal Horns of Inner Abysm  0,627063397129187 1887,21 3009,6
+Inscribed Arms of Desolation  0,629976141329116 235 373,03
+Astral Drift  0,63039333380411 446,35 708,05
+Infused Armor of the Fearful Aria  0,631219141663502 814,38 1290,17
+Exalted Demon Eater  0,631477792697906 1984,52 3142,66
+Demon Eater  0,632740635762899 1919,83 3034,15
+Almond the Frondillo  0,633059003297322 236,15 373,03
+Blades of Voth Domosh  0,633769158750008 1936 3054,74
+Magus Accord  0,63455400384627 630,22 993,17
+Lucentyr  0,63557520618995 149,5 235,22
+Crown of Enduring Solitude  0,636108512628625 13,6 21,38
+Immortal Treasure III 2017  0,636440940012369 246,99 388,08
+Belt of the Wrathful Annihilator  0,636724386724387 17,65 27,72
+Dam'arakan Muzzle  0,639015151515152 455,49 712,8
+Blade of the Demonic Vessel  0,639301030872912 240 375,41
+Inscribed Magus Apex  0,63973063973064 190 297
+Genuine Burning Fiend  0,639795046968403 1535,86 2400,55
+Fiery Soul of the Slayer  0,642012937533438 1980 3084,05
+Exalted Feast of Abscession  0,642140125430005 2004,8 3122,06
+Ashborn Horns  0,642188961646399 13,73 21,38
+Codicil of the Veiled Ones  0,642384785779891 1188,99 1850,9
+Barding of the Savage Monger  0,642817059483726 137,46 213,84
+Расписанная руна (Урона от Blade Fury)  0,643030597377368 13,24 20,59
+Расписанная руна (Урона от Blade Fury)  0,643030597377368 13,24 20,59
+Mask of Zebulon  0,643194930483306 136,01 211,46
+Mecha Boots of Travel Mk III  0,643279526929839 80,5 125,14
+Genuine Serrakura  0,644745325596389 360 558,36
+Bitter Lineage  0,645478185495521 223,4 346,1
+Bracers of the Cavern Luminar  0,645832024624662 205,62 318,38
+Tempest Helm of the Thundergod  0,646173457684216 1971,85 3051,58
+Inscribed Symbol of the King Restored  0,646297739672642 41,46 64,15
+Feast of Abscession  0,646947443671247 2009,05 3105,43
+Inscribed Swine of the Sunken Galley  0,647020996806405 1790,98 2768,04
+Inscribed Swine of the Sunken Galley  0,647020996806405 1790,98 2768,04
+Daughters of Hydrophiinae  0,64833559428154 62,13 95,83
+Concord Dominion  0,648633509930684 277,92 428,47
+Mask of the Divine Sorrow  0,649018605200016 330 508,46
+Bladeform Legacy  0,649324881467739 2015,92 3104,64
+Insatiable Bonesaw  0,649451389267973 1189,73 1831,9
+Pauldron of the Hellsworn  0,64983001457018 13,38 20,59
+Peregrine Flight  0,650389025389025 190,59 293,04
+Комментатор: Lina  0,651075771749298 13,92 21,38
+Frozen Vestments of the Exiled Ronin  0,65176223040505 12,39 19,01
+Magus Apex  0,651890951624029 217,36 333,43
+Gravelmaw  0,652593349222563 230 352,44
+Inscribed Talon Edge  0,65302568567697 15 22,97
+Autographed Demon Eater  0,653604780963271 1920,5 2938,32
+Комментаторы: Рик и Морти  0,654802932514569 209 319,18
+Arms of the Surging Wind  0,654817586529467 14 21,38
+Moonrider's Lucent Headdress  0,65642151481888 11,96 18,22
+Exalted Комплект Feast of Abscession  0,656677141845275 2929,66 4461,34
+Powdersled Rookery Spoon  0,657156220767072 14,05 21,38
+Inscribed Demon Eater  0,657646939190563 1940,19 2950,2
+Pauldrons of Glorious Inspiration  0,658616904500549 12 18,22
+Muh Keen Gun  0,659006734006734 234,87 356,4
+Crystallized Mana  0,659027128157156 14,09 21,38
+Расписанная руна (Критов от Blade Dance)  0,659126775381378 12,53 19,01
+Расписанная руна (Критов от Blade Dance)  0,659126775381378 12,53 19,01
+Inscribed Crazed Tassels of the Black Death  0,659371492704826 141 213,84
+Origins of Faith  0,659408044034571 273,14 414,22
+Sword of Rising Fury  0,659630606860158 35 53,06
+Manifold Paradox  0,661415653671624 1996,88 3019,1
+Inscribed Manifold Paradox  0,663444572305332 2075,52 3128,4
+Pelt of Odocoeleus  0,663981713290519 61 91,87
+Shoulder of the Apex Explorer  0,665173116089613 16,33 24,55
+Exalted Tempest Helm of the Thundergod  0,665984687640739 2070,28 3108,6
+Hair of the Survivor  0,669494536218928 4051,56 6051,67
+Empowering Elements  0,669593852908891 12,2 18,22
+Rollermawster  0,67016317016317 69 102,96
+Wardfish  0,671212121212121 13,29 19,8
+Inscribed Thirst of Eztzhok Blade  0,672414800958672 230,06 342,14
+Corrupted Demon Eater  0,673363754001226 2274,01 3377,09
+Ripper's Reel  0,674214134955227 539,85 800,71
+Corpsemaker  0,674381904260915 12,82 19,01
+Helm of the Dragon Palace  0,674599320058281 13,89 20,59
+Pact of the Wurmblood  0,675623421717172 171,23 253,44
+Crook of the Devilish Conjurer  0,67586747154509 146,67 217,01
+Armlet of Reckless Vigor  0,676975457511704 47,72 70,49
+Eye of the Beholder  0,679318035761539 179,7 264,53
+Iceflight Edifice  0,679522184300341 19,91 29,3
+Spines of the Sunken Gaoler  0,67987567987568 70 102,96
+Scorching Talon  0,680025150148949 4250,47 6250,46
+Насмешка: Skip to the Good Stuff!  0,680443896424168 137,96 202,75
+Exalted Blades of Voth Domosh  0,68158820089871 2552,8 3745,37
+Wings of the Ruby Web  0,681818181818182 13,5 19,8
+Bindings of Deep Magma  0,683316312320119 147,2 215,42
+Exalted Great Sage's Reckoning  0,683559409556916 2170,93 3175,92
+Siltbreaker Reward  0,684413704359016 85,1 124,34
+Inscribed Rollermawster  0,684782608695652 62,37 91,08
+Blistering Shade  0,68591848360868 662,22 965,45
+Genuine Winterblight  0,686223309314471 207,61 302,54
+Комплект музыки «Matt Lange - Abstraction»  0,687485907553551 60,98 88,7
+Autographed Blades of Voth Domosh  0,687876999965293 1981,98 2881,3
+Helm of the Bitterwing Legacy  0,688599846977812 18 26,14
+Controlled Burn  0,689596683000377 36,59 53,06
+Treasure Upgrade Infuser - Fall 2016  0,690934447002017 921,52 1333,73
+Jewels of the Partisan Guard  0,691649694501018 16,98 24,55
+Munitions of the Powderkeg Patrol  0,692057026476578 16,99 24,55
+Seat of the Trailblazer  0,692358803986711 20,84 30,1
+Genuine The Barb of Skadi  0,692490549861658 177,7 256,61
+Комплект «Frost Avalanche»  0,693210846192595 2325,66 3354,91
+Hydrakan Latch  0,693512144665977 194,44 280,37
+Death Ward of the Foreteller's Oath  0,693662538201705 86,25 124,34
+The Gatekeeper  0,694392870404753 18,7 26,93
+Frost Avalanche  0,695111744924874 2300,66 3309,77
+Inscribed Staff of Gun-Yu  0,695580565468021 50,68 72,86
+Slumbering Terror  0,695619105567387 45,73 65,74
+Shock of the Anvil  0,695777982375378 52,9 76,03
+Helm of the Savage Monger  0,695968303726924 319,7 459,36
+Skarsnik and Gobbla  0,696560731388768 16 22,97
+Ethereal Monarch  0,6966618287373 48 68,9
+Piston Impaler  0,696940338156702 223 319,97
+Coat of the Powderkeg Patrol  0,696969696969697 13,8 19,8
+Crazed Tassels of the Black Death  0,697654511213833 163 233,64
+Cape of the Grey Gallant  0,697979797979798 13,82 19,8
+Golden Mantle of Grim Facade  0,698370121937339 1840,75 2635,78
+Hair of the Imperious Command  0,699251637043966 14,95 21,38
+Belt of the Survivor  0,699649872962756 451,61 645,48
+Осень 2015 - Эффект в мешочке  0,69996019587333 756,16 1080,29
+Inscribed Merry Wanderer's Brush  0,70016835016835 41,59 59,4
+Stuntwood Sanctuary  0,700841622035195 18,32 26,14
+Ahm'Hedoq the Maw  0,7008681925809 17,76 25,34
+The Corruption of Nezzureem  0,700905875783334 225,93 322,34
+Stone Seer  0,701127395715896 62,19 88,7
+Regalia of the Parasol's Sting  0,701311316172899 14,44 20,59
+Genuine Soulhoof  0,70142566191446 17,22 24,55
+Corrupted Manifold Paradox  0,702236679150689 2353,16 3350,95
+Frost of Elder Convergence  0,70265563778842 16,14 22,97
+Belt of the Odobenus One  0,703054989816701 17,26 24,55
+Jade Reckoning  0,703463203463203 39 55,44
+Sword of the Eldwurm Crest  0,703622392974753 12,82 18,22
+Great Sage's Reckoning  0,704546562216713 2168,39 3077,71
+Trappings of Golden Nirvana  0,705916599956335 194 274,82
+Swine of the Sunken Galley  0,70838774070572 1887,91 2665,08
+Powdersled Rookery  0,70892272374329 209,99 296,21
+Mark of the Sol Guard  0,709003457087028 94,34 133,06
+Ornate Belt of the Daemon Prince  0,709402586737836 69,11 97,42
+Genuine Shade of the Ranger  0,70959595959596 14,05 19,8
+Legs of Odocoeleus  0,710081640402506 74,8 105,34
+Mace of Nezzureem  0,710227272727273 45 63,36
+Familiars of Glorious Inspiration  0,711175616835994 49 68,9
+Call of the Bladeform Legacy  0,712635803073309 72,81 102,17
+Inscribed Colossal Crystal Chorus  0,712898212898213 36,7 51,48
+Eye of Avernus  0,714050493962678 13,01 18,22
+Sylvan Cascade  0,714282828282828 353,57 495
+Inscribed Mask of the Mad Harvester  0,714285714285714 21,5 30,1
+Насмешка: Foolish Gallantry  0,714314995490694 174,25 243,94
+Helm of the Crystal Path  0,71506734006734 16,99 23,76
+Набор курсоров «Tine of the Behemoth»  0,715154349859682 15,29 21,38
+Genuine Vanguard Fireblade  0,715378729915838 18,7 26,14
+Wings of the Elder Myth  0,715622076707203 15,3 21,38
+Whisky the Stout Artifact  0,715823219601557 1125,36 1572,12
+Кинетический: Wraith Spin  0,716329966329966 59,57 83,16
+Phantom Concord  0,717171717171717 42,6 59,4
+Pale Augur  0,718686868686869 42,69 59,4
+Sinner's Embrace  0,720147290899526 13,69 19,01
+Severing Lash  0,720779220779221 79,92 110,88
+Cape of Zebulon  0,720799719396703 20,55 28,51
+The Path of Odocoeleus  0,721301104462662 273,64 379,37
+Horns of the Wrathful Annihilator  0,721702525724977 15,43 21,38
+Visage of the Ivory Isles  0,722222222222222 14,3 19,8
+Насмешка: Heavenly Jump!  0,722967640094712 18,32 25,34
+Wings of Daybreak  0,722975053895904 46,95 64,94
+Bramblehorn  0,724478594950604 13,2 18,22
+Colossal Crystal Chorus  0,72522095959596 45,95 63,36
+Garb of the Corridan Maestro  0,725933719095213 13,8 19,01
+Hat of Empiric Incendiary  0,725933719095213 13,8 19,01
+Armor of the Equilibrium  0,726080621661 14,95 20,59
+Colors of the Powderkeg Patrol  0,726080621661 14,95 20,59
+Arms of the Bitterwing Legacy  0,726272912423625 17,83 24,55
+Расписанная руна (Добиваний с помощью Stifling Dagger)  0,726599912929909 16,69 22,97
+Расписанная руна (Добиваний с помощью Stifling Dagger)  0,726599912929909 16,69 22,97
+Treasure of the Elemental Trophy  0,727814801823921 20,75 28,51
+Glaive of Oscilla  0,728031347507438 100,33 137,81
+Pack of the Dashing Swordsman  0,728508984944148 15 20,59
+Inscribed Wuldastron the Twin-Blade of Giants  0,729292929292929 14,44 19,8
+Armor of the Lionsguard  0,73106350420811 19,11 26,14
+Armor of Zhuzhou  0,732657833203429 47 64,15
+Ancient Cultist  0,732807215332582 65 88,7
+Basket of the Fae Forager  0,732880038853812 15,09 20,59
+Rigwarl's Spiny Demeanor  0,733130169786678 16,84 22,97
+Head of the Odobenus One  0,733280725981456 37,17 50,69
+Baneful Devotion  0,734106592277199 50 68,11
+Staff of Gun-Yu  0,734341252699784 44,2 60,19
+Pauldrons of the Guardian of the Sapphire Flame  0,735858585858586 14,57 19,8
+Dosa Shoulders  0,736363636363636 14,58 19,8
+Helm of the Keeper's Gaze  0,736454497632825 14 19,01
+Armor of the Imperious Command  0,736583654857945 21 28,51
+Treasure of the Tangled Keepsake  0,737012987012987 20,43 27,72
+Mantle of the Infernal Rambler  0,737102085620198 13,43 18,22
+Crown of Tears  0,737477452476759 53,15 72,07
+Virga's Arc  0,737904177484069 62,53 84,74
+Broiler's Hook  0,738032614413466 14,03 19,01
+Crow of Empiric Incendiary  0,738199780461032 13,45 18,22
+Inscribed Dark Reef Escape  0,738708110733366 15,21 20,59
+Relics of the Sundered King  0,738708110733366 15,21 20,59
+Dosa Tail  0,739660426643448 16,99 22,97
+Arms of the Dark Reservoir  0,739931740614334 21,68 29,3
+Commander's Gauntlet of the Flameguard  0,740165128703254 15,24 20,59
+Mega-Kills: Meepo  0,74087932647334 15,84 21,38
+Inscribed Great Sage's Reckoning  0,740926358107763 2174,73 2935,15
+Orb of Reminiscence  0,741180839212774 19,96 26,93
+Bindings of the Galvanized Spark  0,741366505755663 39,93 53,86
+Resistive Pinfold  0,741792929292929 70,5 95,04
+Blade of the Bitterwing Legacy  0,74192350538433 19,98 26,93
+Arm of the Dragon's Disciple  0,742593491986401 15,29 20,59
+Mentor of the High Plains  0,743079164643031 15,3 20,59
+Inscribed Lycosidae's Brood  0,743217960710945 15,89 21,38
+Baton of the Spiteful Eye  0,74405050995629 15,32 20,59
+Mantle of the Blackguard Magus  0,745507527926178 15,35 20,59
+Wyrmwrought Flare  0,745532245532246 38,38 51,48
+Gauntlet of the Ocean Conqueror  0,747106278498772 21,3 28,51
+Cape of the Narcissistic Leech  0,747895229186155 15,99 21,38
+Inscribed Conservator's Headguard  0,747895622895623 17,77 23,76
+Pauldrons of the Daemon Prince  0,748421670826604 101,95 136,22
+Auspicious Комментатор: GLaDOS  0,748618784530387 18,97 25,34
+Bow of the Battleranger  0,748737373737374 17,79 23,76
+Barrel of Whale Ale  0,749392909179213 15,43 20,59
+Full-Bore Bonanza  0,74949083503055 36,8 49,1
+Scavenging Guttleslug  0,749556506313263 71,83 95,83
+Scavenging Guttleslug  0,749556506313263 71,83 95,83
+Стиль интерфейса «ESL One Fortress»  0,75 14,85 19,8
+The Witch Hunter  0,750233863423761 16,04 21,38
+Расписанная руна (Прыжков на Omnislash)  0,750841750841751 17,84 23,76
+Расписанная руна (Прыжков на Omnislash)  0,750841750841751 17,84 23,76
+Inscribed Pholi the Squire  0,750979538528516 17,25 22,97
+Bracers of Pagus  0,752525252525252 14,9 19,8
+Malefic Drake's Hood  0,752705805182027 45,9 60,98
+Inscribed Instagib OSP  0,752930568079351 16,7 22,18
+Rune of the Duelist Indomitable  0,752930568079351 16,7 22,18
+Inscribed Spottin' Goggles  0,753040224508887 16,1 21,38
+Sleeves of the Divine Flame  0,753535353535354 14,92 19,8
+Northern Blight Style  0,753567508232711 13,73 18,22
+Obsidian Golem  0,75444340505145 16,13 21,38
+Gauntlets of the Nightwatch  0,75444340505145 16,13 21,38
+Treasure of the Rotted Gallows  0,754936872774361 23,32 30,89
+Genuine Dazolator  0,755050505050505 14,95 19,8
+Style of the Bewitching Flare  0,755050505050505 14,95 19,8
+Helm of the Eldwurm Crest  0,756478405315615 22,77 30,1
+Talon Edge  0,756988277727683 16,79 22,18
+Barding of the Bitterwing Legacy  0,757070707070707 14,99 19,8
+Armor of the Shambling Draug  0,757400124197889 36,59 48,31
+Form of the Grey Ghost  0,757409440175631 13,8 18,22
+Frozen Infernal Ram's Horns  0,757409440175631 13,8 18,22
+The Barren Vector  0,757519494987003 40,8 53,86
+Комплект музыки «Dire Shred»  0,757575757575758 21 27,72
+Speed Demon  0,758507135016465 13,82 18,22
+Genuine Talon Edge  0,758507135016465 13,82 18,22
+Насмешка: Raging Bull  0,758831781660502 59,5 78,41
+Lance of the Wurmblood  0,759665621734587 87,24 114,84
+Frostheart  0,76046176046176 21,08 27,72
+Golden Profane Union  0,760629801475622 100 131,47
+Arc of Manta - Off-Hand  0,761499148211244 75,99 99,79
+Pauldron of the Ocean Conqueror  0,761710794297352 18,7 24,55
+Transversant Soul  0,761781285231116 67,57 88,7
+Helm of Cruel Reprisal  0,761947700631199 16,9 22,18
+Carapace of the Ironclad Mold  0,762230405049974 14,49 19,01
+Iceplain Ravager Shield  0,763047138047138 18,13 23,76
+Foreteller's Oath  0,763710327359251 199 260,57
+Потусторонний: Rubiline Sheen  0,764926083370345 120,56 157,61
+Offhand Blade of Prismatic Grace  0,765103697024346 16,97 22,18
+Franglerfish Watcher  0,765448504983389 23,04 30,1
+Arcane Staff of the Ancients  0,765883866816793 95,23 124,34
+Crown of Gore  0,766005410279531 16,99 22,18
+Inscribed Mask of the Chainbreaker  0,76601714731099 49,14 64,15
+Pantaloons of the Bladekeeper  0,767244628722201 40,71 53,06
+Belt of the Dashing Swordsman  0,768386388583974 14 18,22
+Mercurial's Call  0,768386388583974 14 18,22
+Inscribed Pauldrons of the Battleranger  0,768393556813235 17,65 22,97
+Кинетический: Crow's Feet  0,76843549862763 83,99 109,3
+Inscribed Jade Reckoning  0,768462780795772 52,34 68,11
+Dark Artistry Bracers  0,768627004891366 67,57 87,91
+Dendi Doll  0,769921436588103 54,88 71,28
+Helm of the Narrow Fates  0,769928966061563 19,51 25,34
+Conservator's Headguard  0,770622895622896 18,31 23,76
+Compendium Bloody Ripper  0,770647027880063 14,65 19,01
+Bellows of Creation  0,771043771043771 18,32 23,76
+Genuine Breath of Death  0,771659066994037 22 28,51
+Off-Hand Weapon of the Forsaken Flame  0,772219524040797 15,9 20,59
+Насмешка: Shake Your Money Maker  0,772220846744244 62,38 80,78
+Насмешка: Get Burned  0,772720187061574 49,57 64,15
+Telebolt Projektor  0,773190869354055 15,92 20,59
+The Spoils of Dezun  0,773208273208273 64,3 83,16
+Blade of the Dark Reservoir  0,773539288112827 57,59 74,45
+100-Proof Jug  0,773737373737374 15,32 19,8
+Plunder of the High Seas  0,774270337404264 74,81 96,62
+Tome of the Itinerant Scholar  0,774410774410774 18,4 23,76
+Tail of the Ironclad Mold  0,77466456195738 19,63 25,34
+Belt of Harvest's Hound  0,774747474747475 15,34 19,8
+Glaive of the Ravening Wings  0,775252525252525 15,35 19,8
+Belt of the Behemoth  0,775343483104345 20,88 26,93
+Armor of the Narrow Fates  0,77579451458424 17,82 22,97
+Orb of Deliverance  0,775992128566743 47,32 60,98
+Belt of the Forsaken Flame  0,776104905293832 15,98 20,59
+Shadow Masquerade  0,776353136928648 79,32 102,17
+Incantations of Hell  0,776736177539698 40,6 52,27
+Inscribed Bracers of Aeons  0,776972510828639 274,45 353,23
+Inscribed Tolling Shadows  0,777381279165523 56,64 72,86
+Inscribed Broiler's Hook  0,777727682596934 17,25 22,18
+Exalted Call of the Bladeform Legacy  0,779087968277157 74,66 95,83
+Genuine Scythe of Plague  0,780475959203497 16,07 20,59
+Powdersled Rookery Spleen  0,781746031746032 21,67 27,72
+Taunt: Battle Dressage  0,781932977173385 16,1 20,59
+Fallen Sword  0,781932977173385 16,1 20,59
+Комплект музыки Elemental Fury  0,782483930211203 68,17 87,12
+Mask of the Mad Harvester  0,782507015902713 16,73 21,38
+Enchanted Vision  0,782935153583618 22,94 29,3
+Pauldrons of the Elemental Realms  0,783389995143273 16,13 20,59
+Tolling Shadows  0,784635355204154 66,49 84,74
+Насмешка: Funk of the Dead  0,786276303751144 42,97 54,65
+Dazolator  0,78667827601219 18,07 22,97
+Grull the Grim Walker  0,786868686868687 15,58 19,8
+Nightmare Blade  0,786868686868687 15,58 19,8
+Autographed Pauldron Perch  0,787924814885134 83 105,34
+Armor of the Crystal Path  0,789082807278129 21,25 26,93
+Armor of the Crystal Path  0,789082807278129 21,25 26,93
+Arsenal of the Bladekeeper  0,79040404040404 62,6 79,2
+Shoulders of the Comet's Tail  0,791853360488798 19,44 24,55
+Насмешка: Sharp Blade  0,792 82,17 103,75
+Trappings of the Ravenous Fiend  0,792260692464358 19,45 24,55
+Iceplain Ravager Horn  0,792288894922617 58,36 73,66
+Style of Twilight Shade  0,792337831954724 18,2 22,97
+Coat of Fantoccini's Dilemma  0,792534526405494 1264,79 1595,88
+Burning Nightmare  0,792796319859058 81 102,17
+Ainidul the Eternal  0,793939393939394 15,72 19,8
+Автограф: Aren 'VeRsuta' Zurabyan  0,794297352342159 19,5 24,55
+Deep Sea Scoundrel  0,79466791393826 16,99 21,38
+Volatile Firmament  0,79466791393826 16,99 21,38
+Bonkers the Mad  0,796244334124757 73,78 92,66
+Расширитель арсенала  0,796336029047698 96,5 121,18
+Inscribed Maraxiform's Ire  0,796537678207739 39,11 49,1
+Wrap of the Shifting Sorcerer  0,796547866389644 49,84 62,57
+Vestments of the Blackguard Magus  0,796880802079465 21,46 26,93
+Vestments of the Blackguard Magus  0,796880802079465 21,46 26,93
+Legs of the Ironclad Mold  0,797258297258297 22,1 27,72
+Roshan Hunter Back  0,797474275023386 17,05 21,38
+Cape of the Flameguard  0,798366134422577 21,5 26,93
+Inscribed Shearing Deposition  0,800100012501563 64 79,99
+Насмешка: The Magic Ends Here  0,800771659066994 22,83 28,51
+Inscribed Blade of the New Year  0,801044841097083 18,4 22,97
+Gloves of the Pack-Ice Privateer  0,801044841097083 18,4 22,97
+Inscribed Beast of Vermilion Wilds  0,801216089803555 17,13 21,38
+Robe of Blossoming Harmony  0,801515151515151 15,87 19,8
+Iron Cage  0,802209363492898 15,25 19,01
+Насмешка: Chicken!  0,802350892468437 18,43 22,97
+Legs of the Abysm  0,802350892468437 18,43 22,97
+Crimson Pique  0,802556818181818 50,85 63,36
+Eldritch Gnarl  0,803426510369702 17,82 22,18
+Jujak the Fiery Rebirth  0,804061470911087 14,65 18,22
+Насмешка: RazorFlip!  0,804839558127301 15,3 19,01
+Cart of the Powderkeg Patrol  0,804839558127301 15,3 19,01
+Tools of the Hellsworn  0,804977403799014 1806,16 2243,74
+Inscribed Bracers of Broken Scale  0,805425631431244 17,22 21,38
+Genuine Dendi Doll  0,806054152722848 52,99 65,74
+Насмешка: Step Lively  0,80673447913013 23 28,51
+Насмешка: Step Lively  0,80673447913013 23 28,51
+Arms of the Boilerplate Bruiser  0,806828811973807 17,25 21,38
+Weapon of the Forsaken Flame  0,806828811973807 17,25 21,38
+Hoofenpaw  0,807239057239057 19,18 23,76
+Words of the Drunken Warlord  0,807469752761704 15,35 19,01
+Acolyte of Vengeance Mask  0,807469752761704 15,35 19,01
+Azure Shroud  0,807575757575758 15,99 19,8
+Azure Shroud  0,807575757575758 15,99 19,8
+Unusual Беспощадный Грявол  0,807710843373494 83,8 103,75
+Chaos Legion Mount  0,809399739452851 161,54 199,58
+Scythe of Pestilence  0,80976430976431 19,24 23,76
+Genuine Mid Lane  0,811541929666366 18 22,18
+Кинетический: Rift of Reminiscence  0,812848124767917 21,89 26,93
+Compact of the Guardian Construct Style Unlock  0,813075112347528 75,99 93,46
+Compact of the Guardian Construct Style Unlock  0,813075112347528 75,99 93,46
+Genuine Star Ladder Grillhound  0,813319699462055 182,94 224,93
+Spottin' Goggles  0,814522494080505 20,64 25,34
+Helm of the Guardian of the Sapphire Flame  0,814646464646465 16,13 19,8
+Мега-убийства: Deus Ex  0,814646464646465 16,13 19,8
+Arms of the Maze Keeper  0,815038419319429 14,85 18,22
+Inscribed Long-Fang the Grey Blade  0,815656565656566 16,15 19,8
+Стиль интерфейса «SLTV Star Series X»  0,816890292028414 20,7 25,34
+Iceplain Ravager Armor  0,817284925019732 20,71 25,34
+Maraxiform's Ire  0,819183234819989 30,49 37,22
+Inscribed Surgical Precision Apron  0,8205268935236 14,95 18,22
+Spider of Purple Nightmare  0,8205268935236 14,95 18,22
+Reef Kyte Rider  0,820559062218215 18,2 22,18
+Utter Eradication  0,821941663038746 18,88 22,97
+Inscribed Lil' Nova  0,82320819112628 24,12 29,3
+Frostreach Brigands Axes  0,825157843613405 16,99 20,59
+Pauldrons of the Ravening Wings  0,825537885874649 17,65 21,38
+Staff of the Rambling Fatebender  0,825966850828729 20,93 25,34
+Насмешка: Quick Draw!  0,826614861583293 17,02 20,59
+Arms of Harsh Sojourn  0,826958782027479 22,27 26,93
+Blade of the Jade Serpent  0,828282828282828 19,68 23,76
+Inscribed Style of the Battleranger  0,828729281767956 21 25,34
+Legacy of Infernal Wings  0,829576194770063 18,4 22,18
+Dawn of the Moon Pauldrons  0,83092876465284 18,43 22,18
+Head of Harvest's Hound  0,832390074009578 19,12 22,97
+Shoulder of Harvest's Hound  0,832828282828283 16,49 19,8
+Adornments of the Crystal Path  0,83489242282507 17,85 21,38
+Насмешка: Celebration of Death  0,83522940367546 66,81 79,99
+Demonic Essence  0,835499443000371 45 53,86
+Instagib OSP  0,835499443000371 22,5 26,93
+Helm of Forgotten Epoch  0,83617747440273 24,5 29,3
+Cape of the Glacial Magnolia  0,83778533268577 17,25 20,59
+Cape of the Glacial Magnolia  0,83778533268577 17,25 20,59
+Dark Curator  0,838142470694319 18,59 22,18
+Autographed Peregrine Flight  0,838159371492705 298,72 356,4
+Dragon's Breath  0,839330808080808 53,18 63,36
+Arms of the Bogatyr  0,840610205155181 15,98 19,01
+Inscribed Ashborn Horns  0,840834248079034 15,32 18,22
+Plate of the Sharpstar  0,840909090909091 19,98 23,76
+Solace of Divinity  0,841385787331733 80,63 95,83
+Solace of Divinity  0,841385787331733 80,63 95,83
+Комментатор: GLaDOS  0,841908325537886 18 21,38
+Bark of the Ageless Witness  0,841910289260025 272,72 323,93
+Inscribed Mantle of the Blackguard Magus  0,84238714613619 22,02 26,14
+Mask of the Gifted Jester  0,842480790340285 15,35 18,22
+Eyes of the Abysm  0,842480790340285 15,35 18,22
+The International 2016 - Набор смайликов II  0,843240399789584 16,03 19,01
+Lord of the Vicious Plains  0,843434343434343 16,7 19,8
+Pauldrons of the Spirethorn  0,843434343434343 16,7 19,8
+Inscribed Shadow Masquerade  0,847385814761461 100 118,01
+Harness of the Galloping Avenger  0,847448711204629 16,11 19,01
+Hellgazer  0,84850078905839 16,13 19,01
+Breastplate of the Fathomless Ravager  0,84850078905839 16,13 19,01
+Inscribed Finblade  0,84850078905839 16,13 19,01
+Inscribed Phantom's Reaper  0,84850078905839 16,13 19,01
+Robe of Diviner's Embrace  0,849552866912151 16,15 19,01
+Кинетический: Ambience of Reminiscence  0,850795135640786 18,19 21,38
+Visage of the Midnight Sun  0,851110143665651 19,55 22,97
+Кинетический: Bladekeeper's Omnislash  0,852537386614366 69,55 81,58
+Belt of the Dragon's Disciple  0,853096741170449 50 58,61
+Evildoer  0,854066097289269 23 26,93
+Evildoer  0,854066097289269 23 26,93
+Raiments of the Sacrosanct  0,855275022542831 18,97 22,18
+Inscribed Heavy Butterfly Blades  0,855472404115996 18,29 21,38
+Загрузочный экран «Obsidian Nightmare»  0,857212238950947 17,65 20,59
+Emissary's Blade  0,857212238950947 17,65 20,59
+Inscribed Tormented Staff  0,857877094972067 76,78 89,5
+Armor of the Guardian of the Sapphire Flame  0,858080808080808 16,99 19,8
+Skirt of Winter's Warden  0,858080808080808 16,99 19,8
+Sempiternal Revelations Belt  0,859427609427609 20,42 23,76
+Style of the Raucous Gatecrasher  0,859470468431772 21,1 24,55
+Catalyst Cap  0,859671960426972 66,04 76,82
+Насмешка: Keep an Ear Out  0,859859703819174 55,16 64,15
+Shards of Chronoptic Synthesis  0,860285132382892 21,12 24,55
+Autographed Golden Profane Union  0,861214439147063 164,38 190,87
+Насмешка: Chain Break Dance  0,862911058692937 62,19 72,07
+Autographed Tormented Staff  0,862994137982865 114,83 133,06
+Head of the Boreal Sentinel  0,863755917937927 16,42 19,01
+Inscribed Shoulders of the Comet's Tail  0,864909390444811 21 24,28
+Evergreen Stalker  0,865041358293426 19,87 22,97
+Banners of Battle Fortune  0,865644724977457 19,2 22,18
+Beast of Vermilion Wilds  0,866395112016293 21,27 24,55
+Salvaged Sword and Board  0,869191919191919 17,21 19,8
+Jolly Roger  0,869830213321724 19,98 22,97
+The Claddish Renegade  0,871020856201976 15,87 18,22
+Arms of Forgotten Epoch  0,871646501841136 16,57 19,01
+Rattlebite  0,872698579694897 16,59 19,01
+Armor of the Arctic Hall  0,873076417203735 66,38 76,03
+Расписанная руна (Оглушений с помощью Light Strike Array)  0,873732882802774 49,13 56,23
+Hunter with No Name  0,874210781932977 18 20,59
+Bracer of the Grey Wastes  0,875182127246236 18,02 20,59
+Inscribed Eye of Avernus  0,875763747454175 21,5 24,55
+Style of the First Night  0,876014427412083 19,43 22,18
+Genuine Ripper's Reel  0,876244157272477 637,38 727,4
+Inscribed Hakama of a Thousand Faces  0,877777777777778 17,38 19,8
+Inscribed Scepter of the Grand Magus  0,879877582249426 23 26,14
+Насмешка: Making Friends  0,881037877910344 76,06 86,33
+Auspicious Комментатор: Lina  0,881059063136456 21,63 24,55
+Inscribed Wings of the Ruby Web  0,881997804610318 16,07 18,22
+Ruan of Blossoming Harmony  0,884144077237282 23,81 26,93
+Inscribed Familiars of Glorious Inspiration  0,884238899134629 62,33 70,49
+Inscribed Face of the Iron Hog  0,886002886002886 24,56 27,72
+Skywrath Sentinel  0,887953708574434 16,88 19,01
+Bracers of Odocoeleus  0,888114932520679 20,4 22,97
+Autographed Full-Bore Bonanza  0,888128392730706 75,26 84,74
+Helm of the Endless Plane  0,888295288975231 18,29 20,59
+Ormr the Lunar Dragon  0,888295288975231 18,29 20,59
+Helm of Winter's Warden  0,888985633434915 20,42 22,97
+Curiosity  0,889005786428196 16,9 19,01
+Inscribed Winter Solstice Fashion  0,891199405867063 24 26,93
+Auspicious Комментатор: Storm Spirit  0,893740136770121 16,99 19,01
+Inscribed Malefic Drake's Hood  0,901167526472984 66,38 73,66
+Autographed Bow of the Battleranger  0,901935060675631 55 60,98
+Genuine Arms of the Bogatyr  0,904075546719682 54,57 60,36
+Spectral Light  0,904882154882155 21,5 23,76
+Новый стиль для Bark of the Ageless Witness  0,906650321789764 147,92 163,15
+Новый стиль для Bark of the Ageless Witness  0,906650321789764 147,92 163,15
+Sufferwood Sapling  0,907476819885579 92 101,38
+Coat of the Pack-Ice Privateer  0,908102420203437 25,89 28,51
+Style of the Jade General  0,909090909090909 18 19,8
+Helm of the Fallen Princess  0,911994058670628 24,56 26,93
+Helm of the Fallen Princess  0,911994058670628 24,56 26,93
+Djinn Slayer Hook Staff  0,915307732772225 17,4 19,01
+Djinn Slayer Hook Staff  0,915307732772225 17,4 19,01
+Kraken's Bane  0,916464303059738 18,87 20,59
+Pauldrons of Harsh Sojourn  0,925925925925926 22 23,76
+Luscious Locks  0,92755214050494 16,9 18,22
+Автограф The International 2018: Zhang 'xiao8' Ning  0,928327645051194 27,2 29,3
+Twin Blades Assassin  0,93055852771239 86,97 93,46
+Powered Star  0,933273219116321 20,7 22,18
+Inscribed Golem of the Shambling Draug  0,933838383838384 73,96 79,2
+Phantom's Reaper  0,936003482803657 21,5 22,97
+Frostreach Brigands Harness  0,938492871690428 23,04 24,55
+Head of the Frostshard Ascendant  0,939621152328335 23,81 25,34
+Finblade  0,94026226323458 19,36 20,59
+Invokation  0,942476324096808 26,87 28,51
+Joints of the Raucous Gatecrasher  0,94634402945818 17,99 19,01
+Насмешка: Make It Rain  0,94641638225256 27,73 29,3
+Lucid Torment Style Unlock  0,948222811671088 89,37 94,25
+Lucid Torment Style Unlock  0,948222811671088 89,37 94,25
+Spring's Lilium Crown  0,949490043710539 19,55 20,59
+Wrap of the Urushin Huntsman  0,952799121844127 17,36 18,22
+Vigilante Fox  0,954545454545454 18,9 19,8
+Clash of Heroes  0,963703314045239 18,32 19,01
+Heavy Butterfly Blades  0,968635437881874 23,78 24,55
+Robes of the Captive Princess  0,969179353880431 26,1 26,93
+Inscribed Acolyte of Vengeance Mask  0,96921862667719 24,56 25,34
+Scepter of the Grand Magus  0,96969696969697 26,88 27,72
+Inscribed Brooch of the Gleaming Seal  0,970373967945605 19,98 20,59
+Inscribed Wardfish  0,970533208606174 20,75 21,38
+Vest of the Devilish Conjurer  0,983692793266702 18,7 19,01
+Crown of the Tundra Warden  0,987925356750823 18 18,22
+Visage of the Pack-Ice Privateer  0,993355481727575 29,9 30,1
+Visage of the Pack-Ice Privateer  0,993355481727575 29,9 30,1
+Inscribed Mantle of the Roving Pathfinder  0,993687532877433 18,89 19,01
+Inscribed Cloak of the Battleranger  0,996741344195519 24,47 24,55
+Auspicious Primal Form of the Tentacular Timelord  0,996843766438716 18,95 19,01
+Djinn Slayer Scarf  0,997772001485332 26,87 26,93
+Belt of the Frostshard Ascendant  1,00522420548542 23,09 22,97
+Ignited Scepter  1,00909090909091 19,98 19,8
+Thunder Spirit  1,01097694840834 18,42 18,22
+Mount of the Burning Nightmare  1,01295681063123 30,49 30,1
+Inscribed Tricorn of the Roving Pathfinder  1,01678550207962 68,45 67,32
+Armor of the Emerald Insurgence  1,03131313131313 20,42 19,8
+Hood of Pagus  1,03140174813856 31,86 30,89
+Hardened Hunter's Bracer  1,03156787092248 29,41 28,51
+Кинетический: Epitaphic Trap  1,03567508232711 18,87 18,22
+Frostreach Brigands Scarf  1,03877366997295 23,04 22,18
+Arms of the First Ways  1,04020979020979 53,55 51,48
+War Helm of the Galloping Avenger  1,04875482286917 29,9 28,51
+War Helm of the Galloping Avenger  1,04875482286917 29,9 28,51
+Perdition  1,07299670691548 19,55 18,22
+Perdition  1,07299670691548 19,55 18,22
+Tail of the Elusive Destroyer  1,07649461567026 28,99 26,93
+Dragonblood Ravager  1,0787037037037 67,57 62,64
+Quake and Fissure  1,08326756116811 27,45 25,34
+Reap the Whirlwind  1,09979633401222 27 24,55
+Helm of the Burning Nightmare  1,10753564154786 27,19 24,55
+Wrap of the Rustic Finery  1,18002195389682 21,5 18,22
+Belt of the Antipodeans  1,20749158249158 28,69 23,76
+Genuine Moon Rift Drape  1,21369596891695 24,99 20,59
+Kit of the First Hunt Style Unlock  1,24399166109428 316,26 254,23
+Arms of the Frostshard Ascendant  1,29195160441873 24,56 19,01
+Back of the Frostshard Ascendant  1,31828615149197 34,46 26,14
+Sleeves of the Glacial Magnolia  1,36130709246194 36,66 26,93
+Djinn Slayer Armor  1,42691622103387 96,06 67,32
+Inscribed Sword of the Eldwurm Crest  1,43360905528951 32,93 22,97
+Inscribed Voidkeeper's Visage  1,4710009354537 31,45 21,38
+Diabolical Appendages  1,51578165614556 40,82 26,93
+Inscribed Belt of the Umbral Descent  1,64379802414929 29,95 18,22
+Belt of the Umbral Descent  1,76284941388638 39,1 22,18
+Tail of the Stygian Maw  2,18620378719567 48,49 22,18
+Belt of the Stygian Maw  2,61166739225076 59,99 22,97
+Расписанная руна (Убито Meat Hook)  4,15110941086458 108,51 26,14

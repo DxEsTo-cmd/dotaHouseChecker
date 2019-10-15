@@ -14,27 +14,30 @@ namespace GreenScoreChecker
 {
     class Program
     {
+        static ChromeOptions chromeOptions = new ChromeOptions();
         public static IWebDriver Browser { get; private set; }
         static void Main(string[] args)
         {
+            chromeOptions.AddArgument(@"--user-data-dir=F:\User\User Data");
+            chromeOptions.AddArgument("--profile-directory=Selenium");
             Console.WriteLine("Steam Guard:");
-            string steamGuard = Console.ReadLine();
-            Browser = new ChromeDriver();
-            Browser.Manage().Timeouts().ImplicitWait.Add(TimeSpan.FromSeconds(30));
-            Browser.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(320);
-            GoToUrl("https://dotahouse.net/triple");
-            //Thread.Sleep(5000);
-            Browser.FindElement(By.XPath("/html/body/div/div/a[1]/span")).Click();
-            //Thread.Sleep(5000);
-            Browser.FindElement(By.XPath("//*[@id=\"steamAccountName\"]")).SendKeys("kartonowy3");
-            Browser.FindElement(By.XPath("//*[@id=\"steamPassword\"]")).SendKeys("Huskar28");
-            Browser.FindElement(By.XPath("//*[@id=\"imageLogin\"]")).Click();
-            //Thread.Sleep(15000);
-            var wait = new WebDriverWait(Browser, TimeSpan.FromMinutes(1));
-            var clickableElement = wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@id=\"twofactorcode_entry\"]")));
-            Browser.FindElement(By.XPath("//*[@id=\"twofactorcode_entry\"]")).SendKeys(steamGuard);
-            Browser.FindElement(By.XPath("//*[@id=\"login_twofactorauth_buttonset_entercode\"]/div[1]")).Click();
-            clickableElement = wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@id=\"promo\"]/div[1]/div[2]/div[2]/a")));
+            //string steamGuard = Console.ReadLine();
+            Browser = new ChromeDriver(chromeOptions);
+            //Browser.Manage().Timeouts().ImplicitWait.Add(TimeSpan.FromSeconds(30));
+            //Browser.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(320);
+            //GoToUrl("https://dotahouse.net/triple");
+            ////Thread.Sleep(5000);
+            //Browser.FindElement(By.XPath("/html/body/div/div/a[1]/span")).Click();
+            ////Thread.Sleep(5000);
+            //Browser.FindElement(By.XPath("//*[@id=\"steamAccountName\"]")).SendKeys("kartonowy3");
+            //Browser.FindElement(By.XPath("//*[@id=\"steamPassword\"]")).SendKeys("Huskar28");
+            //Browser.FindElement(By.XPath("//*[@id=\"imageLogin\"]")).Click();
+            ////Thread.Sleep(15000);
+            //var wait = new WebDriverWait(Browser, TimeSpan.FromMinutes(1));
+            //var clickableElement = wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@id=\"twofactorcode_entry\"]")));
+            //Browser.FindElement(By.XPath("//*[@id=\"twofactorcode_entry\"]")).SendKeys(steamGuard);
+            //Browser.FindElement(By.XPath("//*[@id=\"login_twofactorauth_buttonset_entercode\"]/div[1]")).Click();
+            //clickableElement = wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//*[@id=\"promo\"]/div[1]/div[2]/div[2]/a")));
             GoToUrl("https://dotahouse.net/triple");
             //Thread.Sleep(5000);
             while (true)
@@ -51,9 +54,9 @@ namespace GreenScoreChecker
                         HtmlNode timer = doc.DocumentNode.SelectSingleNode("//*[@id='triple_roulette']/div/div[2]/span/span");
                         if (timer.InnerText.StartsWith("0."))
                         {
-                                break;
+                            Console.WriteLine(timer.InnerText);
+                            break;
                         }
-                        Thread.Sleep(500);
                     }
                     catch (Exception)
                     {
